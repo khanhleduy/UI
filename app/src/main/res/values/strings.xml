@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BESTUI</string>
+    <string name="confirm_password">Nhập lại mật khẩu</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="remember_password">remember password?</string>
+    <string name="Sign_In">Đăng nhập</string>
+    <string name="Sign_Up">Đăng ký</string>
+    <string name="Forgot_your_password">Forgot your password?</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="open_dra">Open drawer</string>
+    <string name="close_dra">Close drawer</string>
+    <string name="change_pass">Đổi mật khẩu</string>
+    <string name="log_out">Đăng xuất</string>
+</resources>

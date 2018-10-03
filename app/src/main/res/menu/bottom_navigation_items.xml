@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/book"
+    android:icon="@drawable/book"
+    android:title="Sách"/>
+
+    <item android:id="@+id/book_category"
+    android:icon="@drawable/book_category"
+    android:title="Danh mục"/>
+
+    <item android:id="@+id/invoice"
+        android:icon="@drawable/invoice"
+        android:title="Hóa đơn"/>
+
+    <item android:id="@+id/statistical"
+        android:icon="@drawable/statistical"
+        android:title="Tổng quan"/>
+</menu>

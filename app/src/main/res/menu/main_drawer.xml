@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navNotification"
+            android:icon="@drawable/notification"
+            android:title="Thông báo" />
+        <item
+            android:id="@+id/nav_statistical"
+            android:icon="@drawable/startwar"
+            android:title="Đánh giá chúng tôi" />
+        <item
+            android:id="@+id/navSupport"
+            android:icon="@drawable/support"
+            android:title="Hỗ trợ" />
+    </group>
+
+    <item android:title="Thôn tin khác" >
+        <menu>
+            <item
+                android:id="@+id/navIntroduce"
+                android:icon="@drawable/introduce"
+                android:title="Giới thiệu" />
+            <item
+                android:id="@+id/navSecurity"
+                android:icon="@drawable/security"
+                android:title="Chính sách bảo mật" />
+            <item
+                android:id="@+id/navLicense"
+                android:icon="@drawable/license"
+                android:title="Giấy phép mã nguồn mở" />
+            <item
+                android:id="@+id/navExit"
+                android:icon="@drawable/exit"
+                android:title="Thoát" />
+        </menu>
+    </item>
+
+</menu>
